@@ -1,0 +1,97 @@
+[
+  {
+    "emp_id": "2006971e-fa98-499e-9f3c-2a07a781a4c1",
+    "emp_name": "john done",
+    "emp_gender": "male",
+    "emp_status": "active",
+    "emp_email": "john_cena@gmail.com",
+    "emp_address": "gujarat",
+    "emp_phone": "6786789016",
+    "emp_designation": "software engineer",
+    "emp_department": "ESBU",
+    "emp_salary": 50000.0,
+    "emp_skills": [
+      "communication",
+      "coding",
+      "leader"
+    ],
+    "created_date": "2024-01-30",
+    "created_time": "15:47:20.417023"
+  },
+  {
+    "emp_id": "19608b2b-29aa-47f9-ba4e-9eb6577bb54b",
+    "emp_name": "krish",
+    "emp_gender": "male",
+    "emp_status": "active",
+    "emp_email": "krish789@gmail.com",
+    "emp_address": "rajashthan",
+    "emp_phone": "6789000004",
+    "emp_designation": "QA engineer",
+    "emp_department": "STP",
+    "emp_salary": 40000.0,
+    "emp_skills": [
+      "communication",
+      "testing",
+      "team_leader"
+    ],
+    "created_date": "2024-02-01",
+    "created_time": "10:38:02.990208"
+  },
+  {
+    "emp_id": "51957cdb-b707-44e8-b734-8a1dc6595a82",
+    "emp_name": "vedant",
+    "emp_gender": "male",
+    "emp_status": "active",
+    "emp_email": "vedant342@gmail.com",
+    "emp_address": "gujarat",
+    "emp_phone": "7823465421",
+    "emp_designation": "software engineer",
+    "emp_department": "ESBU",
+    "emp_salary": 55000.0,
+    "emp_skills": [
+      "communication",
+      "python",
+      "team_leader"
+    ],
+    "created_date": "2024-02-01",
+    "created_time": "10:38:02.990208"
+  },
+  {
+    "emp_id": "ea37ffab-efa6-4ca9-ab3e-ceb7d72f8ee1",
+    "emp_name": "harsh",
+    "emp_gender": "male",
+    "emp_status": "active",
+    "emp_email": "harsh@gmail.com",
+    "emp_address": "surat,gujarat",
+    "emp_phone": "7896734545",
+    "emp_designation": "software engineer",
+    "emp_department": "EEBU",
+    "emp_salary": 45000.0,
+    "emp_skills": [
+      "python",
+      "react",
+      "team_leader"
+    ],
+    "created_date": "2024-02-05",
+    "created_time": "15:39:47.858578"
+  },
+  {
+    "emp_id": "96d99b8d-4cf3-4736-ad12-de2dbfed22b0",
+    "emp_name": "soham",
+    "emp_gender": "male",
+    "emp_status": "active",
+    "emp_email": "admin@example.com",
+    "emp_address": "ahmedabad",
+    "emp_phone": "7894563214",
+    "emp_designation": "SDE",
+    "emp_department": "ESBU",
+    "emp_salary": 1000.0,
+    "emp_skills": [
+      "python",
+      "splunk",
+      "elastic"
+    ],
+    "created_date": "2024-02-13",
+    "created_time": "14:33:47.128928"
+  }
+]
