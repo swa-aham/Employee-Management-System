@@ -1,0 +1,17 @@
+2024-01-30 16:07:44,158 INFO 16936 - Get employee by id called
+2024-01-30 16:21:04,543 INFO 2848 - Get employee by id called
+2024-01-30 16:21:28,621 INFO 2848 - update employee called
+2024-01-30 16:22:17,467 INFO 2848 - filter employees by status called
+2024-01-30 17:28:08,746 INFO 16576 - Get employees by department called
+2024-01-30 17:30:54,112 INFO 1656 - Get employees by designation called
+2024-02-01 10:39:39,308 INFO 20364 - Create employee called
+2024-02-01 10:40:20,462 INFO 20364 - filter employees by salary range called
+2024-02-01 10:47:17,896 INFO 20364 - Create employee called
+2024-02-01 18:18:54,824 INFO 7424 - Get employee by id called
+2024-02-01 18:19:08,384 INFO 7424 - update employee called
+2024-02-05 15:42:39,177 INFO 19060 - Create employee called
+2024-02-05 15:44:43,854 INFO 19060 - Get employees by designation called
+2024-02-13 14:26:52,814 INFO 15396 - Get employees called
+2024-02-13 14:30:43,933 INFO 15396 - Get employees called
+2024-02-13 14:34:53,416 INFO 3456 - Create employee called
+2024-02-13 14:35:07,492 INFO 3456 - Get employees called
